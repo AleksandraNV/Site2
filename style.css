@@ -1,0 +1,33 @@
+body {
+    font-family: Bahnschrift Light;
+    font-size: 12pt;
+    background-color: rgba(236, 230, 222, 0.521);
+    color:rgb(15, 17, 20)
+}
+h1 {
+    margin: 1em 0 0.5em 0;
+    color: #ac5151;
+    font-size: 24px;
+    font-weight: bold;
+    font-family:'Segoe UI', Old Standard TT, Tahoma, Geneva, Verdana, sans-serif;
+
+}
+h2 {
+    color: #995050;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Old Standard TT', sans-serif;
+}
+p {
+    text-align:left;
+    margin: 1em 0 0.5em 0;
+    color: #3b5f69;
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: 'Josefin Sans', sans-serif; 
+}
+.mystyle{
+ color: #19374b;
+ font-size: 14px;
+ font-family:Typometry Regular 400, Segoe UI;
+}
